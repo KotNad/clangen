@@ -2,7 +2,8 @@
     "kitten": {
         "unfriendly": [
             "is scolding (cat).",
-            "gives (cat) bitter herbs on purpose."
+            "gives (cat) bitter herbs on purpose.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [
             "trips over (cat).",
@@ -22,7 +23,8 @@
     "medicine cat apprentice": {
         "unfriendly": [
             "is scolding (cat).",
-            "gives (cat) bitter herbs on purpose."
+            "gives (cat) bitter herbs on purpose.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [
             "is giving advice to (cat).",
@@ -40,7 +42,8 @@
     "apprentice": {
         "unfriendly": [
             "is scolding (cat).",
-            "gives (cat) bitter herbs on purpose."
+            "gives (cat) bitter herbs on purpose.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [
             "is giving advice to (cat).",
@@ -54,7 +57,8 @@
     },
     "warrior": {
         "unfriendly": [
-            "gives (cat) bitter herbs on purpose."
+            "gives (cat) bitter herbs on purpose.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [
             "is giving (cat) a task.",
@@ -71,7 +75,8 @@
     },
     "medicine cat": {
         "unfriendly": [
-            "gives (cat) bitter herbs on purpose."
+            "gives (cat) bitter herbs on purpose.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [
             "is giving (cat) a task.",
@@ -89,7 +94,8 @@
     "leader": {
         "unfriendly": [
             "accuses (cat) of being a bad leader.",
-            "gives (cat) bitter herbs on purpose."
+            "gives (cat) bitter herbs on purpose.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [
             "is giving (cat) a task.",
@@ -104,7 +110,8 @@
     "deputy": {
         "unfriendly": [
             "accuses (cat) of being a bad deputy.",
-            "gives (cat) bitter herbs on purpose."
+            "gives (cat) bitter herbs on purpose.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [
             "is giving (cat) a task.",
@@ -118,7 +125,8 @@
     },
     "elder": {
         "unfriendly": [
-            "gives (cat) bitter herbs on purpose."
+            "gives (cat) bitter herbs on purpose.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [],
         "friendly": [

@@ -98,7 +98,8 @@
             "wishes they had (cat)'s mentor instead.",
             "offers to help (cat) clean out the elder's bedding.",
             "promises not to tell (cat)'s mentor that they've been sneaking out of camp.",
-            "playfully teases (cat) for missing a catch."
+            "playfully teases (cat) for missing a catch.",
+            "promises (cat) that they'll be mates when they become warriors."
         ]
     },
     "warrior": {
@@ -134,7 +135,9 @@
             "went to (cat) for advice about a dream they had."
         ],
         "friendly": [],
-        "close": []
+        "close": [
+            "promises to run away together with (cat) if they don't want to be a medicine cat anymore."
+        ]
     },
     "leader": {
         "unfriendly": [
@@ -184,7 +187,8 @@
         "close": [
             "goes to (cat) for advice about some recent troubles.",
             "asks (cat) for help resolving an argument with a friend.",
-            "tells (cat) that they're an amazing storyteller."
+            "tells (cat) that they're an amazing storyteller.",
+            "helps (cat) get around camp."
         ]
     },
     "mediator": {

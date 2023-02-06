@@ -1,6 +1,8 @@
 {
     "kitten": {
-        "unfriendly": [],
+        "unfriendly": [
+            "treats (cat)'s splinter wound more roughly."
+        ],
         "neutral": [
             "trips over (cat).",
             "is watching over (cat)."
@@ -13,7 +15,9 @@
         "close": []
     },
     "medicine cat apprentice": {
-        "unfriendly": [],
+        "unfriendly": [
+            "treats (cat)'s splinter wound more roughly."
+    ],
         "neutral": [
             "is frustrated that (cat) won't take their duties more seriously.",
             "has a mock battle with (cat).",
@@ -23,7 +27,9 @@
         "close": []
     },
     "apprentice": {
-        "unfriendly": [],
+        "unfriendly": [
+            "treats (cat)'s splinter wound more roughly."
+        ],
         "neutral": [
             "is frustrated that (cat) won't take their duties more seriously.",
             "has a mock battle with (cat).",
@@ -34,7 +40,9 @@
         "close": []
     },
     "warrior": {
-        "unfriendly": [],
+        "unfriendly": [
+            "treats (cat)'s splinter wound more roughly."
+        ],
         "neutral": [
             "is frustrated that (cat) won't take their duties more seriously.",
             "is jealous that (cat) got to fight in a border skirmish when they didn't."
@@ -43,7 +51,9 @@
         "close": []
     },
     "medicine cat": {
-        "unfriendly": [],
+        "unfriendly": [
+            "treats (cat)'s splinter wound more roughly."
+        ],
         "neutral": [
             "watched (cat) show kindness and compassion towards their patients.",
             "caught a glimpse of (cat) caring for a wounded warrior with confidence and grace.",
@@ -55,7 +65,8 @@
     },
     "leader": {
         "unfriendly": [
-            "accuses (cat) of being a bad leader."
+            "accuses (cat) of being a bad leader.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [],
         "friendly": [],
@@ -63,17 +74,22 @@
     },
     "deputy": {
         "unfriendly": [
-            "accuses (cat) of being a bad deputy."
+            "accuses (cat) of being a bad deputy.",
+            "treats (cat)'s splinter wound more roughly."
         ],
         "neutral": [],
         "friendly": [],
         "close": []
     },
     "elder": {
-        "unfriendly": [],
+        "unfriendly": [
+            "treats (cat)'s splinter wound more roughly."
+        ],
         "neutral": [],
         "friendly": [],
-        "close": []
+        "close": [
+            "helps (cat) get around camp."
+        ]
     },
     "mediator": {
         "unfriendly": [],
